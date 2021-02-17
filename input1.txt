@@ -1,0 +1,2 @@
+Welcome to the training on python
+Today is the 3rd session
